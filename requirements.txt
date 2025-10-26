@@ -1,0 +1,14 @@
+# Core Framework
+falcon>=3.0.0
+
+# Database
+psycopg2-binary>=2.9.0
+
+# HTTP Client
+requests>=2.28.0
+
+# Redis (optional caching)
+redis>=4.0.0
+
+# Configuration
+configparser>=5.0.0
